@@ -15,8 +15,6 @@ public class Main {
 		}
 		for(Mobile m: mobiles) {
 			System.out.println(m.getNumber() + " " + m.getName());
-		}
-		
+		}		
 	}
-
 }
